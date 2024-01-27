@@ -29,9 +29,6 @@
     "vite": "^5.0.8"
   },
   "jest": {
-    "transform": {
-      "^.+\\.(t|j)sx?$": "@swc/jest"
-    },
     "coverageReporters": [
       [
         "text",
