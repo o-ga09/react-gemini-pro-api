@@ -1,3 +1,10 @@
+#########################################
+# firebase にgithub actions からデプロイする
+# 以下の環境変数を設定する
+# FIREBASE_TOKEN_PROD
+# FIREBASE_PROJECT
+# トークンは、firebase login:ciで取得する
+#########################################
 name: CD
 
 on: 
